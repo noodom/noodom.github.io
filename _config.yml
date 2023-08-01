@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Documentation Noodom
+description: Toute la documentation des mes menus et widgets pour la solution domotique Jeedom
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  nooMenus: https://github.com/noodom/jeedom_menus/
+  nooWidgets: https://github.com/noodom/jeedom_widgets/
